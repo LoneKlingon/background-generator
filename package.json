@@ -1,0 +1,25 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Simple gradient color generator using css and js. Takes two colors and creates a range of colors in between. ",
+  "main": "grad_color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoneKlingon/background-generator.git"
+  },
+  "keywords": [
+    "gradient-color",
+    "css",
+    "js",
+    "html"
+  ],
+  "author": "Anthony Youbi Sobodker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoneKlingon/background-generator/issues"
+  },
+  "homepage": "https://github.com/LoneKlingon/background-generator#readme"
+}
